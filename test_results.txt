@@ -1,0 +1,54 @@
+Question 0: What does the command 'cd ~' do on the command line?
+it is a shorcut that refers to the current user's home 
+
+Question 1: What does the command 'ls' do on the command line?
+list the current directory 
+
+Question 2: What are the symbols '#' used for in bash and python?
+it is to indicate a comment 
+
+Question 3: What is a python package? Are you familiar with any python packages?
+python package is a way to organize related python modules
+
+Question 4: What is a SNP? (hint: this is a biology question, not a computer science question)
+A SNAP is a single nucleotide polymorphism which is a variation for a single base pair of DNA
+
+Question 5: What is high-throughput (next generation) sequencing? What types of high-throughput sequencing have you heard of? How do they work?
+I remembered that we study a next-generation sequencing that refers to the modern technologies that allsequencing. 
+
+Question 6: What is read mapping?
+i think the read mapping is the process of aligning sequencing for genome or transcriptome
+
+Question 7: What is variant calling?
+A variant calling is a variation in the dna sequence 
+
+Question 8: What are your post-graduation plans (if you have any- it's okay if you don't!)
+My post-graduaction plans is to look for some jobs avalaible or maybe get a Master's degree to continue my education.
+
+Question 9: What have you enjoyed learning about in CS/bioinformatics courses?
+I enjoyed learning about the use of technology in the field and how it can be used to study at a biological level. 
+
+Question 10: Is there anything in particular you want to learn before you graduate?
+I want to learn more about phylogenetic tree and how to create one and also be able to do project and researchers. 
+
+Question 11: On a scale of 0-9, how comfortable are you using the command line?
+5
+
+Question 12: On a scale of 0-9, how comfortable are you coding in bash?
+5
+
+Question 13: On a scale of 0-9, how comfortable are you coding in python?
+6
+
+Question 14: In computer science, what is a variable?
+variable is a symbolic name for a value 
+
+Question 15: In computer science, what is a function?
+function is a block code that performs a task that takeand returns an output 
+
+Question 16: What is a for loop? What is a while loop?
+a repeating function 
+
+Question 17: What is parallelization? Is running commands in-parallel more efficient than running them in a loop?
+parallelization refers to process multiple tasks. 
+
